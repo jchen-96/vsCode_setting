@@ -1,0 +1,9 @@
+{
+    // "terminal.integrated.shell.windows": "F:/jchenCode/Git/bin/bash.exe",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.editor.enablePreview": false
+}
